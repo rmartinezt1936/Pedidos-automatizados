@@ -37,8 +37,8 @@ Este ultimo paso no se realiza de manera automatizada, ya que por petición de e
 Agregando tambien que la relación con cada proveedor podía cambiar en cada semana, aún así, lo que si fue posible automatizar reduce actualmente un tiempo significativo a los usuarios finales quienes pueden aprovechar los recursos optimizados
 Y reduciendo el margen de error a pedidos por debajo del stock recomendado o bajo el mismo.
 
-![Pedido](.\Pedido_listo.png)
-![Hoja de Validaciones](./Validación.png)
+![Pedido](https://raw.githubusercontent.com/rmartinezt1936/Pedidos-automatizados/main/Pedido_listo.png)
+
 
 ## 🛠️ Funcionalidades
 
