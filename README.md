@@ -28,7 +28,7 @@ y con una tabla dinámica se suman cantidades y se unifican descripciones y prov
 ### Validaciones de datos
 Se tiene alimentada una hoja de validación (VL) en donde previamente junto con el equipo de Redbox, se determinó la cantidad mínima a tener en stock (por semana) para cada producto, y con ello tener de manera automatizada que productos son necesitados de surtir y cuales pueden esperar a una siguiente ronda.
 
-![Hoja de Validaciones](./Validacion.png)
+![Hoja de Validaciones](./Validación.png)
 
 
 ### Pedido Listo
