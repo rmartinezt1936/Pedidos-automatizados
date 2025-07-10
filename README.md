@@ -14,7 +14,3 @@ Este proyecto simula un sistema de generación y control de pedidos desarrollado
 - Fórmulas condicionales
 - Tablas dinámicas
 - Validación de datos
-
-## Captura de pantalla
-
-*(Aquí puedes agregar una imagen del archivo Excel si quieres)*
