@@ -36,7 +36,7 @@ Se separa por hojas a los diferentes proveedores para tener los reportes por sep
 Este ultimo paso no se realiza de manera automatizada, ya que por petición de el cliente, se requería una ultima validación por parte del usuario final, adicional de agregar algunos productos por pedidos adicionales o escenarios relacionados
 Agregando tambien que la relación con cada proveedor podía cambiar en cada semana, aún así, lo que si fue posible automatizar reduce actualmente un tiempo significativo a los usuarios finales quienes pueden aprovechar los recursos optimizados
 Y reduciendo el margen de error a pedidos por debajo del stock recomendado o bajo el mismo.
-![Pedido](.\pedido_listo.png)
+![Pedido](.\Pedido_listo.png)
 
 
 ## 🛠️ Funcionalidades
