@@ -7,7 +7,7 @@
 Se extrae la información de un archivo que nos arroja nuestro sistema de punto de venta, el cual se descarga en una carpeta, misma que está vinculada con su ruta al archivo de excel, 
 se extraen los valores de Cantidad vendida + Descricpción del producto (lado izquierdo) y se relaciona con su respectivo proveedor (formula superior) gracias la información extraida de la tabla VL (lo veremos más adelante)
 y con una tabla dinámica se suman cantidades y se unifican descripciones y proveedores (lado derecho)  
-![Tabla dinámica y Formulas](./Reporte pedidos .png)
+![Tabla dinámica y Formulas] (./Reporte pedidos.png)
 
 ### ✅ Validaciones de datos
 Se tiene alimentada una hoja de validación (VL) en donde previamente junto con el equipo de Redbox, se determinó la cantidad mínima a tener en stock (por semana) para cada producto, y con ello tener de manera automatizada que productos son necesitados de surtir y cuales pueden esperar a una siguiente ronda.
